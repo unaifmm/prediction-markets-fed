@@ -1,0 +1,14 @@
+assumption,period,outcome_hours,mean_price_gap_c,hours_with_locked_in_profit_%,median_profit_c,p90_profit_c,share_beating_tbill_%
+"liquid, Polymarket half-spread 0.5 c",all,35568,1.32,19.46,0.54,1.92,67.65
+"liquid, Polymarket half-spread 0.5 c",2024,4872,1.84,27.34,0.97,2.73,80.93
+"liquid, Polymarket half-spread 0.5 c",2025,17213,1.28,22.47,0.52,1.76,69.8
+"liquid, Polymarket half-spread 0.5 c",2026,13483,1.18,12.78,0.43,1.43,52.58
+"liquid, Polymarket half-spread 1 c",all,35568,1.32,10.5,0.61,1.81,70.61
+"liquid, Polymarket half-spread 1 c",2024,4872,1.84,19.23,0.87,2.75,79.3
+"liquid, Polymarket half-spread 1 c",2025,17213,1.28,11.45,0.61,1.76,73.87
+"liquid, Polymarket half-spread 1 c",2026,13483,1.18,6.12,0.48,1.25,52.97
+all meetings (incl. illiquid 2023-24),all,43442,1.82,21.01,0.67,3.16,69.99
+all meetings (incl. illiquid 2023-24),2023,3634,2.7,29.36,1.09,9.42,66.07
+all meetings (incl. illiquid 2023-24),2024,8005,3.58,29.93,1.27,20.73,84.68
+all meetings (incl. illiquid 2023-24),2025,17794,1.33,21.93,0.52,1.8,69.71
+all meetings (incl. illiquid 2023-24),2026,14009,1.21,12.58,0.47,1.43,53.03

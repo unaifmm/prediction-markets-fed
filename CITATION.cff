@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Do Prediction Markets Know What the Fed Will Do? Kalshi and Polymarket vs Futures, FX and Treasury Bills, 2023-2026"
+authors:
+  - family-names: "Fueyo Montalvo"
+    given-names: "Unai"
+    affiliation: "Universidad Autónoma de Madrid"
+repository-code: "https://github.com/unaifmm/prediction-markets-fed"
+license: MIT
+keywords:
+  - prediction markets
+  - Federal Reserve
+  - Kalshi
+  - Polymarket
+  - market microstructure
+  - event study

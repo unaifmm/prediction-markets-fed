@@ -1,0 +1,9 @@
+horizon,venue,meetings,favourite_right_pct,median_p_of_what_happened,mean_brier
+1 day,kalshi,28,100.0,0.975,0.021
+1 day,polymarket,28,100.0,0.976,0.021
+1 week,kalshi,28,96.429,0.955,0.09
+1 week,polymarket,28,96.429,0.961,0.087
+1 month,kalshi,27,92.593,0.842,0.15
+1 month,polymarket,26,92.308,0.814,0.168
+2 months,kalshi,8,87.5,0.752,0.223
+2 months,polymarket,17,82.353,0.678,0.267
