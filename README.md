@@ -10,6 +10,8 @@ Two prediction markets, Kalshi and Polymarket, let anyone bet on the next Federa
 
 *Unai Fueyo Montalvo · BSc Economics, Universidad Autónoma de Madrid · [LinkedIn](https://www.linkedin.com/in/unai-fueyo-montalvo-63823339b)*
 
+**Read the paper:** [full paper (PDF, 9 pages)](docs/Prediction_Markets_Fed_paper.pdf) · [one-page summary (PDF)](docs/Prediction_Markets_Fed_summary.pdf)
+
 ## Key findings
 
 1. **The data can be trusted.** Both venues paid out the decision that really happened at all 28 decided meetings (checked against the fed funds rate). Hour by hour, their expected rate change correlates 0.994, with a typical gap of 0.4 basis points.
@@ -165,6 +167,7 @@ The unit tests (`python -m pytest`, a few seconds) need no data and no key; they
 │   ├── probs.py                prices -> probabilities -> expected rate change
 │   ├── trades.py               trade prices around releases, second by second
 │   └── plots.py                shared chart style
+├── docs/                       the paper and its one-page summary
 ├── tests/                      unit tests (pytest), no data needed
 ├── figures/                    output charts
 └── results/                    output tables (CSV)
